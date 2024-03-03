@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "profil": "https://images.unsplash.com/photo-1522529599102-193c0d76b5b6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTZ8fHBlb3BsZXxlbnwwfHwwfHx8MA%3D%3D",
+    "content": "Ujan nich",
+    "image": "",
+    "user": "usup",
+    "username": "@usup",
+    "created_at": "1h",
+    "likes_count": 10,
+    "replies_count": 5
+  },
+  {
+    "id": 2,
+    "profil": "https://images.unsplash.com/photo-1522529599102-193c0d76b5b6?w=500&auto=format&fit=crop&q=60&",
+    "content": "Panas banget",
+    "user": "bobi",
+    "username": "@boby",
+    "image": "",
+    "created_at": "5h",
+    "likes_count": 15,
+    "replies_count": 3
+  },
+  {
+    "id": 3,
+    "content": "Anak senja banget",
+    "profil": "https://images.unsplash.com/photo-1522529599102-193c0d76b5b6?w=500&auto=format&fit=crop&q=60&",
+    "user": "Uhuy",
+    "username": "@slim",
+    "image": "https://images.unsplash.com/photo-1707080181888-25efd661305e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "created_at": "4h",
+    "likes_count": 15,
+    "replies_count": 3
+  },
+  {
+    "id": 4,
+    "content": "This is Cogil",
+    "profil": "https://images.unsplash.com/photo-1543807535-eceef0bc6599?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "user": "Uhuy",
+    "username": "@slim",
+    "image": "https://images.unsplash.com/photo-1543807535-eceef0bc6599?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "created_at": "4h",
+    "likes_count": 15,
+    "replies_count": 3
+  },
+  {
+    "id": 5,
+    "content": "Demo buruh",
+    "profil": "https://images.unsplash.com/photo-1591848478625-de43268e6fb8?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "user": "Uhuy",
+    "username": "@slim",
+    "image": "https://images.unsplash.com/photo-1591848478625-de43268e6fb8?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "created_at": "4h",
+    "likes_count": 15,
+    "replies_count": 3
+  }
+]
